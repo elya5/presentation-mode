@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/de/flump/presentation-mode">
+    <file>window.ui</file>
+    <file>de.flump.presentation-mode.svg</file>
+  </gresource>
+</gresources>

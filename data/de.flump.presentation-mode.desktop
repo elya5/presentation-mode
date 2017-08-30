@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Presentation Mode
+Comment=Shutdown notifications and standby during presentations
+Type=Application
+Icon=de.flump.presentation-mode
+Categories=GTK;GNOME;Utility;
+StartupNotify=true
+Exec=presentation-mode
