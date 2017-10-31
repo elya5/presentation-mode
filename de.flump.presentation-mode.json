@@ -25,6 +25,7 @@
     "modules": [
         {
             "name": "presentation-mode",
+            "buildsystem": "meson",
             "sources": [
                     {
                         "type": "git",
